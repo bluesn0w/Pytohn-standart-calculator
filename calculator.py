@@ -45,7 +45,7 @@ while allowed == False:
 
 second_number = int(second_number)
 
-#Calculation of the input
+#Calculation of the input and printing results
 
 if calculation == "+":
     result = (first_number + second_number)
